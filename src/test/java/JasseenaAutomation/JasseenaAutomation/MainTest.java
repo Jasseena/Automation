@@ -17,5 +17,6 @@ public class MainTest
     {
         assertTrue( true );
         System.out.println("Added after  1st commit to GIT");
+        System.out.println("Added after  2nd commit to GIT from Eclipse");
     }
 }
