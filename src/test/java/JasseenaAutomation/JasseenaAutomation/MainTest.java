@@ -16,5 +16,6 @@ public class MainTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+        System.out.println("Added after  1st commit to GIT");
     }
 }
